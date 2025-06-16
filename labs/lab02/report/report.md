@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе №2"
 subtitle: "Управление версиями"
-author: "Субанов Юсуф Жура угли"
+author: "Останин Владислав Александрович"
 
 ## Generic otions
 lang: ru-RU
