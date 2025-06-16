@@ -2,7 +2,7 @@
 ## Front matter
 title: "Отчёт по лабораторной работе 3"
 subtitle: "Язык разметки Markdown"
-author: "Субанов Юсуф Жура угли"
+author: "Останин Владислав Александрович"
 
 ## Generic otions
 lang: ru-RU
