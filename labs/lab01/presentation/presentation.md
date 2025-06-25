@@ -42,7 +42,7 @@ header-includes:
 
 ## Создание пользователя в VirtualBox
 
-![Создание пользователя в VirtualBox](images/3.png)
+![Создание пользователя в VirtualBox](images/2.png)
 
 ## Завершение установки и настройка имени хоста
 
