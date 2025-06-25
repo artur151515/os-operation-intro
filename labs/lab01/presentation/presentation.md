@@ -4,10 +4,10 @@ lang: ru-RU
 title: Операционные системы
 subtitle: Управление версиями
 author:
-  - Останин Владислав Александрович
+  - Бусардыков Артур Валерьевич
 institute:
   - Российский университет дружбы народов, Москва, Россия
-date: 29 мая 2025
+date: 25 июня 2025
 
 ## i18n babel
 babel-lang: russian
@@ -42,7 +42,7 @@ header-includes:
 
 ## Создание пользователя в VirtualBox
 
-![Создание пользователя в VirtualBox](labs/lab01/presentation/images/3.JPG)
+![Создание пользователя в VirtualBox](images/3.png)
 
 ## Завершение установки и настройка имени хоста
 
